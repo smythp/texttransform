@@ -28,7 +28,7 @@ A high-level, multipurpose programming language useful for working with plain te
 
 ### Natural Language Toolkit (NLTK)
 
-A Python library for working with natural language. NLTK can tokenize strings (create a list of words from a set of characters), idenfity parts of sppech, and perform operations based on a word's context. 
+A Python library for working with natural language. NLTK can tokenize strings (create a list of words from a set of characters), identity parts of speech, and perform operations based on a word's context. 
 
 - [NLTK Book](http://www.nltk.org/book/)  
 - [Tutorial: The Natural Language Toolkit](http://www.indiana.edu/~catapult/resources/nltk-tutorial13.pdf)  
